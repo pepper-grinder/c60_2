@@ -1,0 +1,18 @@
+.line{
+    background-color: black;
+    width: 40px;
+    height: 10px;
+    margin:32px auto;
+    align-self: center;
+}
+body{
+    text-align: center;
+}
+#apps{
+    background-color:darkslategray;
+    
+}
+#game1{
+    width: 400px;
+    height: 401px;
+}
